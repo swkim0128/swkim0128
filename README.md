@@ -25,5 +25,5 @@
 
 ## Pinned
 
-[![성우's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim0128)](https://github.com/anuraghazra/github-readme-stats)
+![성우's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim0128)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=swkim0128)](https://solved.ac/swkim0128)
