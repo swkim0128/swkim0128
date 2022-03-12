@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=성우의%20github&type=rect&section=header&height=200&color=gradient&fontSize=50)
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:swkim0128@gmail.com)
-![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:swkim0128@naver.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:swkim0128@gmail.com)](mailto:swkim0128@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:swkim0128@naver.com)](mailto:swkim0128@naver.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://swkim0128.notion.site/918c20a3439740279382aa72cd91a241)](https://swkim0128.notion.site/918c20a3439740279382aa72cd91a241)
 
 ## Skills
 
