@@ -22,3 +22,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+
+## Pinned
+
+[![성우's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim0128)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=swkim0128)](https://solved.ac/swkim0128)
