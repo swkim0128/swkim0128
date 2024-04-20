@@ -9,6 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-777BB4?style=flat&logo=Php&logoColor=white)
 
 ### Framework / Library
 
