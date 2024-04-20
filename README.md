@@ -1,7 +1,3 @@
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:swkim0128@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:swkim0128@naver.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://swkim0128.notion.site/918c20a3439740279382aa72cd91a241)
-
 ## Skills
 
 ### Language
@@ -26,3 +22,9 @@
 
 ![성우's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim0128)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=swkim0128)](https://solved.ac/swkim0128)
+
+## Contract
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:swkim0128@gmail.com)  
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:swkim0128@naver.com)  
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://swkim0128.notion.site/918c20a3439740279382aa72cd91a241)
